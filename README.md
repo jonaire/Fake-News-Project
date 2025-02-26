@@ -21,7 +21,8 @@ This project aims to classify news articles as fake or real using machine learni
 ## Files
 
 *   `Fake_News_Project.ipynb`: Jupyter Notebook containing the code and analysis.
-*   `fake_news_data.zip`: Dataset file.
+*   `Fake.zip`: Dataset file for "fake" news. 
+*   `Real.zip`: Dataset file for "real" news. 
 
 ## Running the Code
 
